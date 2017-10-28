@@ -225,6 +225,8 @@
     <Compile Include="Assets\2DLightAsset\Scripts\Helpers\interface_touch2.cs" />
     <Compile Include="Assets\2DLightAsset\Scripts\Helpers\TablaSenoCoseno.cs" />
     <Compile Include="Assets\2DLightAsset\Scripts\rotate.cs" />
+    <Compile Include="Assets\GoForward.cs" />
+    <Compile Include="Assets\Scripts\AimPosition.cs" />
     <Compile Include="Assets\Scripts\GenerateNewRoom.cs" />
     <Compile Include="Assets\Scripts\GenerateRooms.cs" />
     <Compile Include="Assets\Scripts\MenuScript.cs" />
